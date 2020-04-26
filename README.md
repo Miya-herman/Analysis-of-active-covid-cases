@@ -10,3 +10,8 @@ In the tutorial analysis, we created a bubble map tracking the cumulative number
 Business Answer: How might our data visualizations help county and state leadership or business owners in the US? What other data might we want to incorporate into an animated choropleth map to better understand the toll of the novel coronavirus in the United States?
 
 The data visualizations performed in this analysis help to give us an understanding of how COVID-19 is spreading throughout the U.S. and which counties are being particularly affected by the pandemic. This is useful to policy-makers on local, state, and federal levels who must make decisions about how to regulate citizens and allocate resources. For example, the California government may see that there is a concentration of cases in beach towns and make the decision to close beaches in order to enforce stricter social distancing. Incorporating the rate of recovery into a choropleth map could help leaders determine what policies have been effective in slowing the rate of cases and improving mortality.
+
+Links to data sources:
+https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json
+https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/04-14-2020.csv
